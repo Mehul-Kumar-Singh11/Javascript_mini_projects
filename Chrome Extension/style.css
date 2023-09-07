@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 10px;
+    min-width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#input-el{
+    display: block;
+    width: 100%;
+    border-color: green;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
+#input-btn{
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    margin-top: 7px;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+}
+
+#ul-el{
+    color: green;
+    padding-left: 0;
+    margin-top: 20px;
+}
+#ul-el li{
+    list-style: none;
+    margin-top: 5px;
+}
+#ul-el a{
+    color: green;
+}
